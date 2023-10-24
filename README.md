@@ -18,7 +18,7 @@ Este programa segue perfis com base em localizações. Ele também realiza o pro
 
 Algumas vantagens do meu programa incluem:
 
-- **Segmentação geográfica:** Seguimos perfis com base em localizações reais, em vez de hashtags, o que resulta em seguidores reais e muito mais relevantes.
+- **Segmentação geográfica:** Seguimos perfis com base em localizações, em vez de hashtags, o que resulta em seguidores reais e muito mais relevantes.
 - **Controle de padrões:** O programa utiliza vários tempos e pausas aleatórias para evitar ser identificado como um robô.
 - **Personalização:** Você pode configurar o número de perfis a serem seguidos e deixados de seguir por dia. No entanto, é recomendado não exceder 100 follows e 100 unfollows diários para evitar bloqueios da conta.
 
