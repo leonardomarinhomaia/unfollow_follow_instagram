@@ -1,6 +1,6 @@
 # unfollow_follow_insta
 
-Este é um programa que segue perfis no Instagram com o objetivo de aumentar o número de seguidores. A técnica envolve seguir perfis, esperando que uma parte deles siga você de volta. Embora haja debates sobre a eficácia dessa abordagem, quando feita corretamente, resulta em um crescimento orgânico dos seguidores.
+Este é um programa que segue perfis no Instagram com o objetivo de aumentar o próprio número de seguidores. A técnica envolve seguir perfis, esperando que uma parte deles siga você de volta. Embora haja debates sobre a eficácia dessa abordagem, quando feita corretamente, resulta em um crescimento orgânico dos seguidores do peril favorecido.
 
 Para ilustrar, suponha que você comece a seguir 100 novos perfis todos os dias, e que 10% desses novos perfis o sigam de volta. Isso significa que você terá 10 novos seguidores por dia. No entanto, os resultados podem variar de acordo com o tipo de perfil. Perfis relacionados a "mulheres" tendem a ter um retorno maior do que perfis relacionados a "homens", enquanto um perfil sobre "cerveja" pode obter muito mais seguidores do que um perfil sobre "matemática".
 
