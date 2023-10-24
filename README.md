@@ -12,7 +12,7 @@ Graças a este programa, obtive um aumento significativo no número de seguidore
 
 ## Funcionamento
 
-Este programa segue perfis com base em localizações em Porto Alegre e região. Ele também realiza o processo de deixar de seguir perfis, uma vez que o Instagram impõe um limite de 7500 perfis seguidos por conta.
+Este programa segue perfis com base em localizações. Ele também realiza o processo de deixar de seguir perfis, uma vez que o Instagram impõe um limite de 7500 perfis seguidos por conta.
 
 ## Vantagens
 
